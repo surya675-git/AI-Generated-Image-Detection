@@ -59,6 +59,3 @@ The developed detection framework achieved:
 - Large-scale image processing
 
 
-
-M.Tech in Computer Science and Technology  
-Central University of Punjab
